@@ -1,0 +1,12 @@
+jpackage \
+  --type pkg \
+  --input /path/to/jar \
+  --name Logisim \
+  --main-jar logisim.jar \
+  --dest /path/to/output \
+  --java-options '--enable-preview' \
+  --icon /path/to/icon.icns \
+  --app-version 1.0 \
+  --mac-package-identifier com.yourdomain.logisim \
+  --mac-package-name Logisim \
+  --mac-package-signing-prefix "Developer ID Application"
