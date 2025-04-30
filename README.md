@@ -28,9 +28,9 @@ https://www.gnu.org/licenses/gpl-3.0.en.html
 
 **Installation**
 
-1a. Download and run the.pkg installer from the Releases page.
+1a. Download and run the .pkg installer from the Releases page.
 -or-
-1b. Download and place the Logisim.app in your Applications folder.
+1b. Download and extract the .zip release and place the Logisim.app in your Applications folder.
 2. Run as any other macOS application
 
 Note: You may need to allow the app to run in System Settings → Privacy & Security → Open Anyway if macOS recognizes it as being from an unverified developer.
